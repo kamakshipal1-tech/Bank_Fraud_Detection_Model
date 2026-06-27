@@ -439,6 +439,16 @@ This allows future inference without retraining.
 
 ---
 
+## Deployment
+
+The application has been deployed using **Streamlit Community Cloud** for easy access and interactive predictions.
+
+### Live Demo
+
+https://bankfrauddetectionmodel-zxwbhderhdbyizjtw3tdk4.streamlit.app/
+
+---
+
 ## Future Improvements
 
 * Real-time fraud scoring
